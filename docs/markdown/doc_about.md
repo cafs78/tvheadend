@@ -1,4 +1,4 @@
-##About
+## About
 
 This documentation forms part of the Tvheadend project.
 
@@ -10,11 +10,11 @@ tears, that's nothing to do with us.
 
 (c) 2006 - 2016 Tvheadend Foundation CIC
 
-##Licensing
+## Licensing
 
 The entire project is currently licensed using [GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt).
 
-##Further Information
+## Further Information
 
 For more information regarding the project, licensing and contributions, please see:
 
